@@ -1,0 +1,36 @@
+/* .app-wrapper{
+  display: grid;
+width: 1200px;
+margin:0 auto;
+
+grid-template-areas: 
+"h h"
+"c c";
+
+
+grid-template-rows: 60px 1fr;
+grid-template-columns: 2fr 10fr;
+/*grid-gap: 10px; */
+
+
+
+/* }
+
+
+.app-wrapper-content{
+  grid-area: c;
+  background-color: rgb(71, 180, 49);
+  
+
+
+}
+
+
+.app-header{
+
+  grid-area: h;
+  background-color:blue;
+}
+ */ 
+
+
